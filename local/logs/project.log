@@ -1,58 +1,52 @@
-2017-09-23T04:37:57.487Z - normal: Load ~/.CocosCreator/settings.json
-2017-09-23T04:37:57.499Z - normal: checking language setting...
-2017-09-23T04:37:57.500Z - normal: Language: en
-2017-09-23T04:37:59.596Z - success: protocol editor-framework registered
-2017-09-23T04:37:59.596Z - success: protocol app registered
-2017-09-23T04:37:59.596Z - success: protocol theme registered
-2017-09-23T04:37:59.596Z - success: protocol profile registered
-2017-09-23T04:37:59.597Z - success: protocol packages registered
-2017-09-23T04:37:59.598Z - success: protocol unpack registerred
-2017-09-23T04:37:59.598Z - success: protocol disable-commonjs registerred
-2017-09-23T04:38:02.592Z - normal: failed to connect login server due to request timeout
-2017-09-23T04:38:02.594Z - normal: Check project C:\Users\student\Desktop\start_project
-2017-09-23T04:38:02.597Z - normal: Initializing Cocos2d
-2017-09-23T04:38:02.927Z - normal: Initializing Asset Database
-2017-09-23T04:38:02.974Z - success: protocol uuid registerred
-2017-09-23T04:38:02.974Z - success: protocol db registerred
-2017-09-23T04:38:02.975Z - success: protocol thumbnail registerred
-2017-09-23T04:38:02.975Z - normal: Loading editor/builtin packages
-2017-09-23T04:38:03.004Z - success: anysdk loaded
-2017-09-23T04:38:03.188Z - success: assets loaded
-2017-09-23T04:38:03.190Z - success: builder loaded
-2017-09-23T04:38:03.195Z - success: hierarchy loaded
-2017-09-23T04:38:03.198Z - success: inspector loaded
-2017-09-23T04:38:03.200Z - success: keystore loaded
-2017-09-23T04:38:03.204Z - success: node-library loaded
-2017-09-23T04:38:03.206Z - success: package-asset loaded
-2017-09-23T04:38:03.209Z - success: preferences loaded
-2017-09-23T04:38:03.211Z - success: project-exporter loaded
-2017-09-23T04:38:03.229Z - success: project-importer loaded
-2017-09-23T04:38:03.234Z - success: project-settings loaded
-2017-09-23T04:38:03.243Z - success: ui-kit loaded
-2017-09-23T04:38:03.245Z - success: ui-grid loaded
-2017-09-23T04:38:03.249Z - success: scene loaded
-2017-09-23T04:38:03.251Z - success: sprite-editor loaded
-2017-09-23T04:38:03.260Z - success: store loaded
-2017-09-23T04:38:03.266Z - success: timeline loaded
-2017-09-23T04:38:03.266Z - normal: Loading builtin packages
-2017-09-23T04:38:03.270Z - success: asset-db-debugger loaded
-2017-09-23T04:38:03.270Z - success: color-picker loaded
-2017-09-23T04:38:03.275Z - success: console loaded
-2017-09-23T04:38:03.278Z - success: package-manager loaded
-2017-09-23T04:38:03.283Z - success: sdkbox loaded
-2017-09-23T04:38:03.286Z - success: tester loaded
-2017-09-23T04:38:03.289Z - success: ui-kit-preview-extra loaded
-2017-09-23T04:38:03.292Z - success: ui-kit-preview loaded
-2017-09-23T04:38:03.294Z - success: ui-tree loaded
-2017-09-23T04:38:04.685Z - normal: Initializing project C:\Users\student\Desktop\start_project
-2017-09-23T04:38:04.706Z - normal: Loading packages
-2017-09-23T04:38:04.712Z - normal: Watching packages
-2017-09-23T04:38:04.733Z - normal: Run Application
-2017-09-23T04:38:06.713Z - success: preview server running at http://localhost:7456
-2017-09-23T04:38:13.424Z - normal: 1.6.1
-2017-09-23T05:42:54.013Z - warn: The Asset used is missing. Detailed information:
-Missing uuid: "c9c9e803-3039-4bcf-9bed-3b6f90cae1f0"
-
-2017-09-23T05:42:54.018Z - warn: The Asset used is missing. Detailed information:
-Missing uuid: "c9c9e803-3039-4bcf-9bed-3b6f90cae1f0"
-
+2017-09-30T03:44:41.403Z - normal: Load ~/.CocosCreator/settings.json
+2017-09-30T03:44:41.409Z - normal: checking language setting...
+2017-09-30T03:44:41.411Z - normal: Language: en
+2017-09-30T03:44:43.420Z - success: protocol editor-framework registered
+2017-09-30T03:44:43.420Z - success: protocol app registered
+2017-09-30T03:44:43.420Z - success: protocol theme registered
+2017-09-30T03:44:43.420Z - success: protocol profile registered
+2017-09-30T03:44:43.420Z - success: protocol packages registered
+2017-09-30T03:44:43.421Z - success: protocol unpack registerred
+2017-09-30T03:44:43.421Z - success: protocol disable-commonjs registerred
+2017-09-30T03:44:43.868Z - normal: connected!
+2017-09-30T03:44:43.872Z - normal: Check project C:\Users\student\Desktop\start_project-1
+2017-09-30T03:44:43.875Z - normal: Initializing Cocos2d
+2017-09-30T03:44:44.227Z - normal: Initializing Asset Database
+2017-09-30T03:44:44.278Z - success: protocol uuid registerred
+2017-09-30T03:44:44.279Z - success: protocol db registerred
+2017-09-30T03:44:44.279Z - success: protocol thumbnail registerred
+2017-09-30T03:44:44.279Z - normal: Loading editor/builtin packages
+2017-09-30T03:44:44.313Z - success: anysdk loaded
+2017-09-30T03:44:44.524Z - success: assets loaded
+2017-09-30T03:44:44.527Z - success: builder loaded
+2017-09-30T03:44:44.531Z - success: hierarchy loaded
+2017-09-30T03:44:44.534Z - success: inspector loaded
+2017-09-30T03:44:44.536Z - success: keystore loaded
+2017-09-30T03:44:44.542Z - success: node-library loaded
+2017-09-30T03:44:44.544Z - success: package-asset loaded
+2017-09-30T03:44:44.547Z - success: preferences loaded
+2017-09-30T03:44:44.549Z - success: project-exporter loaded
+2017-09-30T03:44:44.569Z - success: project-importer loaded
+2017-09-30T03:44:44.572Z - success: project-settings loaded
+2017-09-30T03:44:44.576Z - success: ui-kit loaded
+2017-09-30T03:44:44.579Z - success: ui-grid loaded
+2017-09-30T03:44:44.590Z - success: scene loaded
+2017-09-30T03:44:44.595Z - success: sprite-editor loaded
+2017-09-30T03:44:44.600Z - success: store loaded
+2017-09-30T03:44:44.608Z - success: timeline loaded
+2017-09-30T03:44:44.608Z - normal: Loading builtin packages
+2017-09-30T03:44:44.612Z - success: asset-db-debugger loaded
+2017-09-30T03:44:44.612Z - success: color-picker loaded
+2017-09-30T03:44:44.617Z - success: console loaded
+2017-09-30T03:44:44.619Z - success: package-manager loaded
+2017-09-30T03:44:44.626Z - success: sdkbox loaded
+2017-09-30T03:44:44.630Z - success: tester loaded
+2017-09-30T03:44:44.633Z - success: ui-kit-preview-extra loaded
+2017-09-30T03:44:44.635Z - success: ui-kit-preview loaded
+2017-09-30T03:44:44.639Z - success: ui-tree loaded
+2017-09-30T03:44:46.241Z - normal: Initializing project C:\Users\student\Desktop\start_project-1
+2017-09-30T03:44:46.269Z - normal: Loading packages
+2017-09-30T03:44:46.279Z - normal: Watching packages
+2017-09-30T03:44:46.303Z - normal: Run Application
+2017-09-30T03:44:48.696Z - success: preview server running at http://localhost:7456
+2017-09-30T03:44:58.874Z - normal: 1.6.1
