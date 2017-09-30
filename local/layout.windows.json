@@ -109,22 +109,10 @@
       "width": 600,
       "height": 564,
       "layout": {
-        "children": [
-          {
-            "active": 0,
-            "children": [
-              "project-settings"
-            ],
-            "height": 526,
-            "type": "panel",
-            "width": 584
-          }
-        ],
+        "children": [],
         "type": "dock-v"
       },
-      "panels": [
-        "project-settings"
-      ]
+      "panels": []
     }
   },
   "panels": {
