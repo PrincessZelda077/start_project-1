@@ -99,20 +99,6 @@
         "node-library",
         "timeline"
       ]
-    },
-    "window-1506147000789": {
-      "main": false,
-      "url": "unpack://static/window.html",
-      "windowType": "dockable",
-      "x": 385,
-      "y": 85,
-      "width": 600,
-      "height": 564,
-      "layout": {
-        "children": [],
-        "type": "dock-v"
-      },
-      "panels": []
     }
   },
   "panels": {
